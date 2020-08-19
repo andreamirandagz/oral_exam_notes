@@ -1,0 +1,32 @@
+---
+title: "Migration Notes - Early Migration theories"
+author: "Andrea Miranda-Gonzalez"
+date: "August 2020"
+output: html_document
+bibliography: references.bib
+---
+
+From Irene's 280X syllabus:
+- @de2020age
+
+- @sassen1989america
+
+- @massey1993theories
+
+- @massey1999why
+
+- @zelinsky1971hypothesis
+
+- @stark1985new
+
+- @brettell2014migration
+
+- @lee1966theory
+
+- @garip2019move
+
+- @mckeown2004global
+
+
+## References
+
