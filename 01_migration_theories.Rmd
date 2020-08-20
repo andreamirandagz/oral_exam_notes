@@ -1,32 +1,309 @@
 ---
-title: "Migration Notes - Early Migration theories"
+title: "Migration Syllabi"
 author: "Andrea Miranda-Gonzalez"
 date: "August 2020"
-output: html_document
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    theme: flatly
+    highlight: haddock
+    toc_float: TRUE
 bibliography: references.bib
+link-citations: yes
+linkcolor: blue
 ---
 
-From Irene's 280X syllabus:
-- @de2020age
+# Soc 280X syllabus {.tabset} 
+Borrowed from Irene Bloemraad
 
-- @sassen1989america
+- **Why Do People Migrate? Economics, Culture and Social Networks:**
+Read the UN report first. Based on this report, what are the causes of migration – why do people leave their countries for other nations? Next, read Sassen. In what ways are her perspectives the same as the UN report, and in what ways do they differ? What are the empirical expectations for migration flows from these theories? For example, between which countries should we see migration flows, and who within a country are most likely to migrate? Now read Massey’s synthesis. Draw a table or diagram of the theories he presents and identify how they differ or resemble each other. Consider the key actors, motivations and mechanisms in each theory. Finally, read Garip. In what ways does she adopt Massey’s approach and how does she deviate from it? Evaluate her methods for answering the question of ‘who migrates?’ Are you convinced? Finally, do you feel that there are any arguments missing from these accounts? How dependent are these theories on understanding the particular case of Mexico-US migration?
 
-- @massey1993theories
+   - @sassen1989america
+   - @massey1999why
+   - @garip2019move
+   - @ravenstein1889laws
+   - @lee1966theory
+   - @piore1979birds
+   - @mckeown2004global
+   - @hatton2005global
+   - @ryo2013deciding
 
-- @massey1999why
+- **Why Do People Migrate: Law, Politics and the State:** On what basis does Zolberg criticize Massey’s theoretical synthesis? How is this the same or different from Torpey’s discussion? Imagine that you are a professor who has to justify doing Qualifying Exams in immigration studies. How would you define migrants and how would you distinguish the study of them from other sociological (or social science) sub-fields, such as race & ethnicity, development, social networks, etc.? We don’t have a separate day on the large literature on the politics of immigration (but see the end of the syllabus), so read Boswell with an eye to understanding major approaches to the topic. Finally, consider the Neumayer article. In what ways (if at all) does his research support Zolberg and Torpey’s contentions? Do you find his empirical analysis convincing? Why or why not?  
+  - @zolberg1999matters
+  - @torpey1998coming
+  - @boswell2007theorizing
+  - @neumayer2005bogus
+  - @freeman1995modes
+  - @hollifield2014dilemmas
+  - @cornelius2005controlling
+  - @massey2016border
+  - @ruhs2008numbers
 
-- @zelinsky1971hypothesis
+- **Categorical Inequality: Race and Migration** Recall Boswell’s overview of the literature from the previous week. Where would you situate FG and CM or Brown in her framework? Both of this week’s readings underscore when and how race influences policy, but both suggest the impact of racism is contingent. What are these influences and contingencies? Do you find these accounts convincing? What rings true (and why), and what questions or critiques do you have?  
+  - @brown2013race
+  - many books in her references list: 
+    - @tichenor2009dividing
+    - @ngai2014impossible
+    - @motomura2006americans
+    - @parker2015making
+    - @donato2015gender
 
-- @stark1985new
+- **Categorical Inequality: Law and Migration** In different ways, each reading considers how law constitutes borders and migrants. Define, based on readings or your own conception, terms such as “illegal alien,” “deportability,” “liminal legality,” “refugees” and “asylum- seeker.” Consider the range of statuses a non-citizen might hold, and think through how state designations may affect a person. How might this be more or less important than other sources of inequality that sociologists typically study, such as ethno-racial background, human and financial capital, gender or even religion? Think through research strategies to study the effects of illegality, deportability and liminal legality empirically
+  - @lee2002enforcing
+  - @ngai2003strange
+  - @de2004legal
+  - @menjivar2006liminal
+  - @hamlin2012symbolic
+  - @nevins2002operation (book)
+  - @de2002migrant
 
-- @brettell2014migration
+- **Immigrant Integration: (New) Assimilation** We now move from entry to frameworks for understanding and theorizing the process of immigrant integration, including the incorporation of the 2nd and 3rd generations (the children and grandchildren of migrants). The Gordon chapter is considered a canonical account of the “old” assimilation theory in social sciences. What is the causal process that undergirds this model? Identify indicators of assimilation (or integration) from this perspective. Now read Alba and Nee. They offer a canonical “new” assimilation theory. Again, identify the causal process behind this model: who acts, how and why? What is the role of structure? Then identify measures of assimilation. Finally, read Kasinitz, et al. In what ways is their account a ‘straight-line’ assimilation story, and in what ways is it a bit different? What are indicators of integration? Are you convinced by these accounts and the data? Why or why not? Finally, take a step back and consider the study of immigrant integration. What are the appropriate measures we should study if we want to tackle this? Why?
+  - @gordon1964assimilation (book)
+  - @alba2009remaking (book)
+  - @kasinitz2009inheriting (book)
+  - @perlmann2005italians (book)
+  - @alba2014mexican
+  - @lee2015asian (book)
 
-- @lee1966theory
+- **Immigrant Integration: Segmented Assimilation** 
+Segmented assimilation is presented as a challenge to traditional theories of integration.  Outline the grounds on which proponents of segmented assimilation disagree with the old models and then evaluate their argument. In doing this, first read Gans, who early on started to wonder whether inter-generational integration patterns for European immigrants would apply to the ‘post-1965’ immigrants. Next read Portes & Zhou 1993 who coined the term of ‘segmented assimilation.’ What do they mean by this? Identify the causal process behind this model: who acts, how and why? What is the role of structure? Compare and contrast the 1993 piece to the 2009 article by Portes, et al. Has the model changed, and if so, how? Consider the evidence they provide and compare it to the evidence in Kasinitz from the prior week. Are the data contradictory? Which assimilation framework do the data most support? Next read Telles and Ortiz. What are the benefits and drawbacks of their data compared to Portes, et al. and Kasinitz, et al.? How would you characterize their theory of integration? Finally, consider this week and last, what do you see as the most appropriate theoretical way of understanding immigrant integration?
+  - @gans1992second
+  - @portes1993new
+  - @portes2009adaptation
+  - @telles2008generations (book)
+  - @xie2011social
+  - @haller2011dreams
+  - @soehl2020social
 
-- @garip2019move
+- **Immigrant Integration: The Role of Legal Status**
+Key drivers of integration in the ‘assimilation’ debates include racial minority status, human & financial capital, and social capital from ethnic ties. Curiously absent is a discussion of legal status. Why? Much of the early, cutting-edge work on legal status and the immigrant experience was done by young scholars. First read Abrego for an early intervention, then Gonzales. Theoretically and empirically, how are they the same, and how do they differ? Consider how social scientists should measure the effects of legal status. Are these attempts convincing? Why or why not? Note how the earliest work focused on adolescents. The limited work on illegality in the 1980s and 1990s in the US tended to be done by economists or economic sociologists interested in calculating the wage penalty of undocumented status. Gleeson does something different in her study of undocumented workers, as do Menjívar and Abrego. How does their work speak to the other readings from this week, and from February 15? An even newer wave of scholarship is now considering the effects of illegality on those hold status, or even citizenship. How does Dreby articulate these impacts? Finally, can migration law ever have salutary effects? Read Brown last and consider her arguments about the effects of designation as a refugee on people’s self-conceptions and actions. Compare and contrast Brown to Gleeson. Finally, take a step back. How would you succinctly summarize the insights from this corpus of work? Where do you think the field should now go, be it in theorization, or empirical research?
+  - @abrego2006can
+  - @gonzales2011learning
+  - @gleeson2010labor
+  - @menjivar2012legal
+  - @dreby2012burden
+  - @brown2011refugees
+  - @yoshikawa2011immigrants (book)
+  - @dreby2015everyday (book)
+  - @gonzales2016lives (book)
+  - @bean2015parents (book)
+  - @cainkar2009homeland (book)
 
-- @mckeown2004global
+- **Immigrant Integration: Beyond the United States**The debate about immigrant assimilation among U.S. scholars relies exclusively on the American experience and has, historically, been parochial. An emerging literature tries to theorize and study immigrant integration outside the United States. Is it possible to build a general theory or common approach to the topic? What would such an endeavor look like? Or is the US experience unique? Why (not)? Tackle this week’s readings in the order presented. First compare and contrast the “boundary” approach articulated by Zolberg and Woon, and expanded by Alba, to the new and segmented assimilation models. Is a boundary approach only relevant for cross-national comparisons? Why do you think these authors prefer them for cross-national comparison?
+Next, summarize Alba and Foner’s 2014 “grand narratives” approach and contrast it to the assimilation and boundary frameworks. Last, read Crul’s critique. Considering the evidence presented in all the readings, what explanatory frameworks seem most useful to you, and why?  
+  - @zolberg1999islam
+  - @alba2005bright
+  - @alba2015strangers (book)
+  - @crul2016super
+  - @bloemraad2006becoming (book)
+  - @sniderman2007ways (book)
+  - @laurence2012emancipation (book)
+  - @maxwell2012ethnic (book)
+  - @adida2016muslim (book)
+  - @beaman2017citizen (book)
+
+- **Nation-State Membership: Citizenship**Joppke criticizes the social sciences for having few theories of citizenship. Of the three theorists he finds most influential, two are sociologists and one is a political philosopher. Why are there no political scientists in his list, and no classical social theorists? If you had to teach a course on citizenship, which theories or approaches would you have students read? Bloemraad (2006) situates her work somewhat differently from Joppke’s conceptual approach: she is focused on the processes by which immigrants become citizens. Consider her framework for understanding immigrants’ political incorporation and her claims as to how it builds on or differs from what she calls the “North American” or “European” approaches that came before. Do you find her account convincing? What other evidence might you want? Joppke and Bloemraad both approach citizenship as about status, rights, identity and (in Bloemraad’s case) political participation. Nawyn underscores a different, economic conception of the good citizen. [Those who have read Marshall’s on social citizenship will want to reflect on how her data challenges Marshall.] To what extent is Nawyn’s research specific to refugees, or more generally the case for all citizens? Finally, Bloemraad and Sheares provide an up- to-date survey of the citizenship & immigration literature. If you run out of time, cut this reading.
+  - @joppke2010citizenship (book)
+  - @bloemraad2006becoming (book)
+  - @nawyn2011have
+  - @bloemraad2017understanding
+  - @hainmueller2015naturalization
+  - For more books look at syllabus
 
 
-## References
+- **Reconfigured “Mainstreams”** Part of the integration or assimilation debates center on whether immigrants are being incorporated into the ‘mainstream’ of the society. In Europe, many politicians and other observers worry about immigrant ghettos or silos cut off from the majority population. In both cases, the conception of the majority or mainstream is quite static. But think back to the Crul article about super-diversity. Migration affects not just those who move, but also the communities into which they settle. While there is a vast literature on the economic effects of migration (for jobs, welfare state spending, etc.), and although there is a long history of popular worries about immigrants bringing the ‘wrong’ values with them (whether Catholics or Socialists a century ago, or Muslim immigrants today), social scientists have directed relatively little attention to how migration reconfigures the mainstream. This week’s readings take on this question from two perspectives: for the US color line and for national identity. Outline the explicit or implicit explanation for how immigrants create change in each reading. Next consider the data that each brings to bear and the type of evidence presented. Finally, evaluate the claims. Are they persuasive or not? Why (not)? Given the amorphous state of research on this topic, where do you think the research agenda should go next?
+  - @lee2007reinventing
+  - @schildkraut2007defining
+  - @jimenez2013white
+  - @huntington2004we (book)
+  - @putnam2007pluribus
+  - @marrow2011new (book)
+  - @aptekar2012naturalization
+  - @schildkraut2014boundaries
+  - @jimenez2017other (book)
 
+- **Beyond the Nation-State: Transnational Membership** In the 1990s, sociologists and anthropologists increasingly criticized migration studies for only considering immigrant experiences within the context of the receiving country, as if migrants closed off all communication and interaction with their homeland once they crossed the border. This led to an explosion of studies on transnationalism, and ensuing debates about whether this was a new phenomenon (or just old wine in new bottles), whether it was extensive (or only the exceptional case) and whether it was consequential (e.g., do trans- national attachments affect migrants’ integration?). A parallel debate questioned the importance of the nation- state from another direction, positing that traditional citizenship is being eclipsed by a new postnational or denationalized model of belonging. For this week and next week, identify what relevance each author accords to the nation-state for studying migration and assess their arguments. Do you agree that membership and belonging increasingly derive from transnational ties? What about from global processes such as the evolution of human rights or the advancement of market logics? What is the basis of membership, empirically? Academics have lost some of their interest in the ‘transnational’ and ‘postnational’ turns. Why? Can you specify for whom, or under what conditions, these frameworks makes sense? Or are we better off jettisoning them? 
+  - @levitt2004conceptualizing
+  - @solari2017shoulders
+  - @basch2005nations (book)
+  - @ong1999flexible (book)
+  - @levitt2001transnational (book)
+  - @bloemraad2004claims
+  - @smith2005racialization
+  - @levitt2009roots
+  - @faist2012toward
+
+- **Globalization and Cosmopolitanism: Postnational Membership?**
+  - @soysal1994limits (book)
+  - @favell2010european
+  - @harpaz2015ancestry
+  - @benhabib2004rights (book)
+
+
+***
+# Soc 146AC syllabus{.tabset}
+Borrowed from Irene Bloemraad
+
+- **Why do People Migrate? Economics and Social Networks** Read the UN report first. Based on this report, what are the causes of migration – why do people leave their countries for other nations? Next, read Sassen. In what ways are her perspectives the same as the UN report, and in what ways do they differ? What are the empirical expectations for migration flows from these theories? Between which countries should we see migration flows, and who within a country is most likely to migrate? Now read Garip’s synthesis of migration theories. Draw a table or diagram of all the theories and identify how they differ or resemble each other. Consider the key actors, motivations and mechanisms in each theory. Next, read Garip’s account of US-Mexican migration. In what ways does she adopt existing theories and how does she deviate from it? Finally, take a step back and consider all the readings. Do you feel that there are any arguments missing from these accounts? How dependent are these theories—which are supposed to be general—on the case of Mexico-US migration in particular?
+   - @sassen1989america
+   - @massey1999why
+   - @garip2019move
+   - @mckeown2004global
+   
+- **Why Do People Migrate? Violence, Policy and the State System** Compare and contrast the readings in this section with those above. What are the key differences in the approach to explaining international migration? What role do violence, immigration policy and the international state system play in these readings? How do the readings change the way we should approach economic or social network considerations?
+  - @massey2016border
+  - @neumayer2005bogus
+  - @zolberg1999matters
+
+- **United States: Controlling Borders & Choosing People – Law, Policy, Administration** Immigration law – what is on the books – seems straightforward, but the process of producing policy, implementing it and enforcing it (through courts or administration) is highly complex. The dynamics of controlling borders and choosing who enters and can stay may involve public opinion; foreign policy considerations; the court system; normative ideals about democracy, equality and human rights; political party competition; the interests of government employees (such a border control unions); as well as pressure by business and other interest groups. With all of these elements in mind, read the overviews of US policy (Martin) and European policy (Messina). Consider the case of unanticipated migration: refugee flows and asylum-seeking (Rottman, et al., Lucassen). Which factors seem most important in driving policy and political responses? Why might the influence of a factor – or an actor – change over time or depending on the migrant group? Draw a table and compare US policy with that of one or two European countries from about 1880 to the present. What might explain differences across countries in their policies and actions around migration?
+  - @lee2002enforcing
+  - @ngai2003strange
+  - @rottman2009path
+  
+- **Europe: Emigration, Immigration & Forced Migration**
+  - @messina2007logics (book)
+  - @lucassen2018peeling
+
+- **Debating “Assimilation” in the US: Straight-line, Segmented, or Something Else?** The readings for the next two weeks debate the dynamics of immigrant integration, including the incorporation of the 2nd and 3rd generations (the children and grandchildren of migrants). First, read the Syed and Hartmann reading for an overview of key frameworks used by American scholars of immigrant integration (and, if you aren’t clear about the theories, skim the short Brown and Bean on-line reading for another overview). Next read Gans, who uses a comparison of Europeans’ multigenerational integration over the 20th century to theorize about the prospects for children of post-1965 immigrants. The following two readings, by Portes, et al. and Kasinitiz, et al., both focus on secondgeneration educational trajectories but draw somewhat different conclusions on how to understand integration. Draw a chart and identify, for each reading, the definition of “integration” used. What do the authors see as indicators [measures] of integration? What do the authors say (or imply) about “successful” integration – how would we know it has been achieved? Next, outline how each author theorizes integration dynamics. What are the key factors driving integration? Try to distinguish between levels of analysis: the characteristics of individual migrants, factors related to migrant groups, and the context of reception. Evaluate how these scholars assess the evidence for ‘integration’ (or its failures). What data do they use? Given the data, (1) Is integration happening? (2) What factors are most important in shaping integration trajectories? Finally, develop your own definition of integration. How would you measure it? Why these indicators and not others? Your reflections should inform your semi-structured interview questionnaire.
+  - @brown2006assimilation
+  - @portes2009adaptation
+  - @kasinitz2009inheriting
+  
+- **A Helping Hand: Networks, Organizations, Public Policy & Multicultural Contexts** The integration readings thus far outline theories largely developed by US scholars centered on the US context. How well do these theories apply outside the United States? Can they be extended to other countries? For example, many contemporary US scholars of immigrant integration have not paid much attention to the impact of immigrants’ religion for incorporation. (Even though they would agree that being Catholic or Jewish was a source of discrimination a century ago.) Consider the arguments by Syed and Hartmann. How different are they from existing frameworks? Bloemraad, in her comparison between the US and Canada, emphasizes how public policies affect immigrants’ integration, both directly, and by channeling the availability of community-based organizations to help immigrants. Make sure you understand her model of “structured mobilization,” especially compared with other approaches we have read so far. The readings by Crul and Jiménez underscore how ‘context’ changes due to migration. Much of the US integration or assimilation debates center on whether immigrants are being incorporated into the ‘mainstream’ of society. In Europe, some politicians and other observers worry about immigrant communities that are isolated from the majority population, whether by choice or exclusion. In both cases, the conception of the majority or mainstream is quite static. Yet migration affects not just those who move, but also the places where immigrants settle. Crul and Jiménez take on this question from a perspective of “super-diversity” or “relational” integration. (As we’ll see later, Jiménez believes a relational approach might produce re-ordered racial hierarchies in places like Silicon Valley.) Outline the explicit or implicit explanation for how immigrants create change in each reading. Next consider the data that each author brings to bear and the type of evidence presented. Finally, evaluate the claims. Are they persuasive or not? Why (not)?
+  - @crul2016super
+  - @jimenez2017other
+  
+- **Barriers to Integration: The Constitutive Impact of Legal Status** Traditionally, sociologists have studied inequality through the lens of class, race and gender. The study of migration raises another possible basis of inequality: legal status. Perhaps surprisingly, migration scholars have not always been attentive to legal status, because the focus was on the second generation and, in the US, those born in the country are automatic citizens. Re-consider the prior three weeks of readings and consider how Abrego places her research in this conversation. Today her arguments are not surprising (and things have changed in California), but at the time, she and other young scholars began to change the conversation about immigrant integration. Today, migration scholars underscore how legal status matters, creating “categorical inequality.” The way legal status is constitutive of experiences and identities is central to the research by Abrego, Sigona and Menjívar. How does undocumented status affect the people they study? How does it change the dynamics of educational or political integration in prior readings? Consider Menjívar’s article on “liminal legality” and Temporary Protected Status. Pay attention to how the force of law is not just a question of (il)legality, but also distinctions such as permanent or temporary migration; humanitarian, economic or family migration; and high-skilled or low-skilled. What sort of message of inclusion (or exclusion) are people sent based on legal status? How is this substantiated in their daily lives? Investigate a temporary work visa such as the high-skilled H1-B visas (for academics, tech workers and other highly educated migrants in the US), the Live-in Caregiver Program in Canada (for domestic workers), or similar arrangements in other Western countries. To
+what extent would you expect their experiences to be the same or different from the immigrants who Menjívar profiles?
+  - @abrego2006can
+  - @sigona2012have
+  - @gonzales2011learning
+  - @menjivar2012legal
+ 
+- **Community-based Organizations: Civic and Political Membership**
+  - @bloemraad2006becoming
+
+-**Embedded Community Organizations: Economic and Legal Membership**
+  - @nawyn2011have
+  - @brown2011refugees
+  - @gast2016moral
+
+- **Being and Becoming American: Membership and Belonging** Our last readings bring together themes we have examined this semester to consider the content and contours of being “American” in the 21st century. The writers consider immigrant demographics, immigration and citizenship law, immigrants’ culture and social networks, race, and the reactions of non-immigrants. Do you think that the children of immigrants are accepted as American or consider themselves American? What does it mean to be American? Do the experience of immigrants in the United States inform membership and belonging in other countries? Or is there something particular about the US? How might your answers change in forty years? What would cause change?
+  - @zhou2017hyper
+  - @jimenez2013white
+  - @bloemraad2014ascriptive
+
+***
+# Demog 160 syllabus {.tabset}
+Borrowed from Leora Lawton
+
+- **Intro to demography: (Basic trends in demography)** 
+  - @mcfallspopulation
+
+- **Early Migration Theory**	
+  - @sjaastad1962costs 
+  - @lee1966theory
+
+- **Contemporary Migration Theory**	
+  - @massey1999why 
+  - @williams2012migration
+
+- **Migration: global**	
+  - @mcneill1984human 
+  - @czaika2014globalization 
+  - @liu2013migrant
+
+- **Migration: To the US**	
+  - @hirschman2005immigration 
+  - Pew 2009
+
+- **Impact of Migrants on Native populations**
+  - @frey1995immigration  
+  - Review articles on Card-Borjas debate in The Atlantic & NY Times
+
+- **Contemporary forced migration**	
+  - @neumayer2004asylum
+  - @riosmena2018climate 
+  - @schon2019motivation
+
+- **Fertility and Migration – the Relationship**	
+  - @friedlander1983demographic 
+  - @davis2010effects
+
+- **Migration across the life course**
+  - @litwak1987migration 
+  - @vega2019reasons
+
+- **US Internal Migration**	
+  - @johnson2017frozen 
+  - @flippen2013relative 
+  - Census Brief
+
+- **Residential distribution**
+  - @hall2015neighborhood
+
+# Demog 240 
+Borrowed from Leora Lawton
+
+- **Why People Move: Early Theory**	
+  - @sjaastad1962costs 
+  - @lee1966theory
+  - @todaro1969model
+  - @zelinsky1971hypothesis
+  - @harris1970migration
+  - @borjas1989economic
+  - @greenwood1985human
+  - @ravenstein1889laws
+  
+- **Measurement issues**
+  - @shryock1973methods
+  - @massey1995new
+  - @kaplan2012interstate
+  - @chiswick1999immigrants
+  - @schmertmann1992estimation
+  - @bell2003comparing
+  - @dumont2005counting
+  - @bycroft2006challenges
+  - @feliciano2005educational
+  - @van2006foreign
+  - @nicholson1990hidden
+  - @rees2000problems
+  - @clark1985human (book, chp1)
+  - @skeldon1990population
+
+- **International I – Historical Patterns**
+  - @mcneill1984human
+  - @chew2004hidden
+  - @hoerder2002cultures
+  - @errichiello2012foreign
+  - @wells1992population
+  - @moretti1999social
+
+- **International II – Contemporary Theory**
+  - @stark1985new
+  - @rindfuss2012migrant
+  - @hugo2000migration (book)
+  - @koc2004international
+  - @stark1988migration
+  - @kirdar2009labor
+  - @favell2008rebooting
+  - @abreu2012new
+
+- **Forced Migrations**
+  - @zolberg1986international
+  - @nwokeji2001african
+  - @ugo2000atlantic
+  - @miers2000contemporary
+  - @manzo2005exploiting
+  - @horowitz1991victims
+  
+  
+  
+  
+*** 
+# References
+
+
+***
