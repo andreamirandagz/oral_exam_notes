@@ -9,7 +9,7 @@ output:
     theme: flatly
     highlight: haddock
     toc_float: TRUE
-bibliography: references.bib
+bibliography: references_migration.bib
 link-citations: yes
 biblio-style: apalike
 linkcolor: blue

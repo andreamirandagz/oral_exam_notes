@@ -1,0 +1,197 @@
+---
+title: "Economic Demography Syllabi"
+author: "Andrea Miranda-Gonzalez"
+date: "August 2020"
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    theme: flatly
+    highlight: haddock
+    toc_float: TRUE
+bibliography: references_econdemog.bib
+link-citations: yes
+biblio-style: apalike
+linkcolor: blue
+---
+
+# Econ 275 (Ronald Lee) {.tabset}
+## Background 
+
+  - @lee2003demographic
+  
+## Economics of the Family: Marriage 
+
+  - Dan Slater (2013) 
+  - @becker1977economic
+  - @stevenson2007marriage
+  - @guvenen2015women
+  - @mansour2014couples
+  - @triebe2013men
+
+## Economics of the Family: Fertility and Investment in Offspring Theory
+
+### Theory
+
+  - @cox2007biological
+  - WB document for Richard Easterlin and Eileen Crimmins (1985) The Fertility Revolution: A Supply-Demand Analysis (University of Chicago Press) Chapter 2 “Theoretical Framework”, pp.12-31.
+  - @becker1992fertility
+
+### Empirics
+
+  - @goldin2006quiet 
+  - @bailey2006more
+
+##	Causal Analysis in Demography and Applied Studies in Fertility and Family 
+
+### Methodological/Conceptual Background
+
+  - @moffitt2009issues
+  - @bhrolchain2007causation
+
+##	Biology, Genetics, and Economic Demography
+
+  - @cox2007biological
+  - @beauchamp2011molecular
+  - @manski2011genes
+
+##	Health and Mortality
+###	Background: Formal, Theoretical, Descriptive
+  
+  a.	Biodemography of health and longevity (brief lecture: optimality, mutation accumulation)
+  b.	Some formal and statistical issues (my short notes)
+  c.	Descriptive background on trends and forecasts
+
+###	Structural economic models and interpretations of trends
+
+  - @davanzo1990household
+
+###	Special topics: Fetal programming and early life effects 
+
+  - @currie2011inequality
+  
+###	Broad interpretations
+
+  - @smith2004unraveling
+  - @banks2006disease
+
+##	Demographic Aspects of Life Cycle and Household
+### Demographic Composition and Household Behavior
+
+  - @chayanov1966theory (pages 57-88)
+  - @lee2002children
+  - Ronald Lee, “PopEconMath” on bSpace – a few pages of notes tying stable population theory to the macroeconomy. 
+
+### Intergenerational transfers and markets as alternate ways of smoothing consumption over the Life Cycle 
+  
+  - @mason2011population (starts page 22)
+  - @becker1988family (Read up to section on divorce on page 12, and past this only if interested).
+  
+### Population Aging and Intergenerational Transfers
+
+  - @cutler1990aging pp.1-56 and 71-73. (Read pp.1-16 carefully, and skim the rest. 
+  - @lee2019samuelson
+  - @institute2012aging 
+    - Chapter 3 on the demographic background on population aging, pp.32-61.
+    - Chapter 4 on health and disability, pp.62-74. 
+    - Chapter 5 on labor force participation and retirement, pp.73-105, except for pp.mid-86-mid-90.
+    
+##	Economic Consequences of Immigration
+  
+  - @bodvarsson2013economics
+  - @borjas2003labor
+  - @card2009immigration
+  - @national1997new
+
+##	Population and Economic Development
+### The Demographic Transition, Savings, and Economic Growth
+
+  - @kelley2005evolution
+
+
+### Population Growth, Human Capital, and Economic Development 
+
+  - @acemoglu2007disease
+  - @bloom2009fertility
+  - @miller2010contraception
+  - @joshi2013family
+
+### Unified Growth Theory
+
+  - @snowdon2008towards
+  - @lee2013intergenerational
+
+
+# 2009 Economic Demography Field exam {.tabset}
+Added *(275)* to show that this is also in the 275 syllabus.
+## Background 
+ 
+  - @lee2003demographic (275)
+
+## Economics of Marriage and Divorce
+
+  - @becker1977economic (275)
+  - @lundberg2007american
+  - @stevenson2007marriage (275)
+  - @angrist2002sex
+  - @amuedo2007cohort
+  - @hitsch2010matching
+  - @siow2008does
+  - @cao2008optimizing
+  
+## Economics of fertility
+
+  - @becker1992fertility (275)
+  - @bailey2006more (275)
+  - @adsera2004changing
+  - @goldin2006quiet (275)
+  - @akerlof1996analysis
+  - @black2013children
+
+## Causal Analysis in Economic Demography
+
+  - @buckles2013season
+  - @geronimus1992socioeconomic
+  - @molyneaux2000impact
+
+## Health and Mortality 
+
+  - @smith2004unraveling (275)
+  - @banks2009ses
+  - @currie2009healthy
+  - @del2012intrafamily
+  - @van2011being
+  - @almond20061918
+  
+## Age Composition, Family Life Cycle, and Intergenerational Transfers
+
+  - @chayanov1966theory (275)
+  - @lee2002children (275)
+  - @becker1988family (275)
+  - @lee2003change
+  - @cox1987motives, lee1994sons (skim)
+  - @samuelson1958exact
+  - @lee1994formal
+  - @cutler1990aging (275)
+
+## Immigration 
+
+  - @borjas2003labor (275)
+  - @card2009immigration (275)
+  - @card2005new 
+  
+## Population and Economic Development (with introductions to many of the readings) 
+  - @kelley2005evolution (275)
+  - @acemoglu2007disease (275)
+  - @bloom2009fertility (275)
+  - @miller2010contraception (275)
+  - @lee2010fertility
+
+## Biology and Economic Demography
+  - @cox2007biological (275)
+  - @lee2003rethinking
+
+  
+
+
+# References
