@@ -15,12 +15,12 @@ biblio-style: apalike
 linkcolor: blue
 ---
 
-# Econ 275 (Ronald Lee) {.tabset}
-## Background 
+# Econ 275 (Ronald Lee) {.tabset .tabset-fade .tabset-pills} 
+## Background {.tabset .tabset-fade .tabset-pills} 
 
   - @lee2003demographic
-  
-## Economics of the Family: Marriage 
+   
+## Economics of the Family: Marriage {.tabset .tabset-fade .tabset-pills} 
 
   - Dan Slater (2013) 
   - @becker1977economic
@@ -29,7 +29,7 @@ linkcolor: blue
   - @mansour2014couples
   - @triebe2013men
 
-## Economics of the Family: Fertility and Investment in Offspring Theory
+## Economics of the Family: Fertility and Investment in Offspring Theory {.tabset .tabset-fade .tabset-pills} 
 
 ### Theory
 
@@ -42,20 +42,20 @@ linkcolor: blue
   - @goldin2006quiet 
   - @bailey2006more
 
-##	Causal Analysis in Demography and Applied Studies in Fertility and Family 
+##	Causal Analysis in Demography and Applied Studies in Fertility and Family {.tabset .tabset-fade .tabset-pills} 
 
 ### Methodological/Conceptual Background
 
   - @moffitt2009issues
   - @bhrolchain2007causation
 
-##	Biology, Genetics, and Economic Demography
+##	Biology, Genetics, and Economic Demography {.tabset .tabset-fade .tabset-pills}
 
   - @cox2007biological
   - @beauchamp2011molecular
   - @manski2011genes
 
-##	Health and Mortality
+##	Health and Mortality {.tabset .tabset-fade .tabset-pills}
 ###	Background: Formal, Theoretical, Descriptive
   
   a.	Biodemography of health and longevity (brief lecture: optimality, mutation accumulation)
@@ -75,7 +75,7 @@ linkcolor: blue
   - @smith2004unraveling
   - @banks2006disease
 
-##	Demographic Aspects of Life Cycle and Household
+##	Demographic Aspects of Life Cycle and Household {.tabset .tabset-fade .tabset-pills}
 ### Demographic Composition and Household Behavior
 
   - @chayanov1966theory (pages 57-88)
@@ -96,14 +96,14 @@ linkcolor: blue
     - Chapter 4 on health and disability, pp.62-74. 
     - Chapter 5 on labor force participation and retirement, pp.73-105, except for pp.mid-86-mid-90.
     
-##	Economic Consequences of Immigration
+##	Economic Consequences of Immigration {.tabset .tabset-fade .tabset-pills}
   
   - @bodvarsson2013economics
   - @borjas2003labor
   - @card2009immigration
   - @national1997new
 
-##	Population and Economic Development
+##	Population and Economic Development {.tabset .tabset-fade .tabset-pills}
 ### The Demographic Transition, Savings, and Economic Growth
 
   - @kelley2005evolution
@@ -122,13 +122,14 @@ linkcolor: blue
   - @lee2013intergenerational
 
 
-# 2009 Economic Demography Field exam {.tabset}
+# 2009 Economic Demography Field exam {.tabset .tabset-fade .tabset-pills}
 Added *(275)* to show that this is also in the 275 syllabus.
-## Background 
+
+## Background {.tabset .tabset-fade .tabset-pills} 
  
   - @lee2003demographic (275)
 
-## Economics of Marriage and Divorce
+## Economics of Marriage and Divorce {.tabset .tabset-fade .tabset-pills}
 
   - @becker1977economic (275)
   - @lundberg2007american
@@ -139,7 +140,7 @@ Added *(275)* to show that this is also in the 275 syllabus.
   - @siow2008does
   - @cao2008optimizing
   
-## Economics of fertility
+## Economics of fertility {.tabset .tabset-fade .tabset-pills}
 
   - @becker1992fertility (275)
   - @bailey2006more (275)
@@ -148,13 +149,13 @@ Added *(275)* to show that this is also in the 275 syllabus.
   - @akerlof1996analysis
   - @black2013children
 
-## Causal Analysis in Economic Demography
+## Causal Analysis in Economic Demography {.tabset .tabset-fade .tabset-pills}
 
   - @buckles2013season
   - @geronimus1992socioeconomic
   - @molyneaux2000impact
 
-## Health and Mortality 
+## Health and Mortality {.tabset .tabset-fade .tabset-pills} 
 
   - @smith2004unraveling (275)
   - @banks2009ses
@@ -163,7 +164,7 @@ Added *(275)* to show that this is also in the 275 syllabus.
   - @van2011being
   - @almond20061918
   
-## Age Composition, Family Life Cycle, and Intergenerational Transfers
+## Age Composition, Family Life Cycle, and Intergenerational Transfers {.tabset .tabset-fade .tabset-pills}
 
   - @chayanov1966theory (275)
   - @lee2002children (275)
@@ -174,20 +175,20 @@ Added *(275)* to show that this is also in the 275 syllabus.
   - @lee1994formal
   - @cutler1990aging (275)
 
-## Immigration 
+## Immigration {.tabset .tabset-fade .tabset-pills}
 
   - @borjas2003labor (275)
   - @card2009immigration (275)
   - @card2005new 
   
-## Population and Economic Development (with introductions to many of the readings) 
+## Population and Economic Development (with introductions to many of the readings) {.tabset .tabset-fade .tabset-pills} 
   - @kelley2005evolution (275)
   - @acemoglu2007disease (275)
   - @bloom2009fertility (275)
   - @miller2010contraception (275)
   - @lee2010fertility
 
-## Biology and Economic Demography
+## Biology and Economic Demography {.tabset .tabset-fade .tabset-pills}
   - @cox2007biological (275)
   - @lee2003rethinking
 

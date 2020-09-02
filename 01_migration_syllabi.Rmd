@@ -15,7 +15,7 @@ biblio-style: apalike
 linkcolor: blue
 ---
 
-# Soc 280X syllabus {.tabset} 
+# Soc 280X syllabus {.tabset .tabset-fade .tabset-pills}
 Borrowed from Irene Bloemraad
 
 ## **Why Do People Migrate? Economics, Culture and Social Networks**   
@@ -290,7 +290,7 @@ Borrowed from Leora Lawton
   - @hall2015neighborhood
 
 ***
-# Demog 240 {.tabset} 
+# Demog 240 {.tabset .tabset-fade .tabset-pills}
 Borrowed from Leora Lawton
 
 ## **Why People Move: Early Theory**	
