@@ -74,9 +74,9 @@ In different ways, each reading considers how law constitutes borders and migran
 
 We now move from entry to frameworks for understanding and theorizing the process of immigrant integration, including the incorporation of the 2nd and 3rd generations (the children and grandchildren of migrants). The Gordon chapter is considered a canonical account of the “old” assimilation theory in social sciences. What is the causal process that undergirds this model? Identify indicators of assimilation (or integration) from this perspective. Now read Alba and Nee. They offer a canonical “new” assimilation theory. Again, identify the causal process behind this model: who acts, how and why? What is the role of structure? Then identify measures of assimilation. Finally, read Kasinitz, et al. In what ways is their account a ‘straight-line’ assimilation story, and in what ways is it a bit different? What are indicators of integration? Are you convinced by these accounts and the data? Why or why not? Finally, take a step back and consider the study of immigrant integration. What are the appropriate measures we should study if we want to tackle this? Why?
 
-  - @gordon1964assimilation (book)
-  - @alba2009remaking (book)
-  - @kasinitz2009inheriting (book)
+  - @gordon1964assimilation (book) Chapter 3 *
+  - @alba2009remaking (book) Chapters 1-2 & 6 *
+  - @kasinitz2009inheriting (book) Chapters 1,5 *
   - @perlmann2005italians (book)
   - @alba2014mexican
   - @lee2015asian (book)
@@ -85,10 +85,10 @@ We now move from entry to frameworks for understanding and theorizing the proces
 
 Segmented assimilation is presented as a challenge to traditional theories of integration.  Outline the grounds on which proponents of segmented assimilation disagree with the old models and then evaluate their argument. In doing this, first read Gans, who early on started to wonder whether inter-generational integration patterns for European immigrants would apply to the ‘post-1965’ immigrants. Next read Portes & Zhou 1993 who coined the term of ‘segmented assimilation.’ What do they mean by this? Identify the causal process behind this model: who acts, how and why? What is the role of structure? Compare and contrast the 1993 piece to the 2009 article by Portes, et al. Has the model changed, and if so, how? Consider the evidence they provide and compare it to the evidence in Kasinitz from the prior week. Are the data contradictory? Which assimilation framework do the data most support? Next read Telles and Ortiz. What are the benefits and drawbacks of their data compared to Portes, et al. and Kasinitz, et al.? How would you characterize their theory of integration? Finally, consider this week and last, what do you see as the most appropriate theoretical way of understanding immigrant integration?
 
-  - @gans1992second
-  - @portes1993new
-  - @portes2009adaptation
-  - @telles2008generations (book)
+  - @gans1992second *
+  - @portes1993new *
+  - @portes2009adaptation *
+  - @telles2008generations (book) Chapters 1-3, 5, 11 *
   - @xie2011social
   - @haller2011dreams
   - @soehl2020social
@@ -97,12 +97,12 @@ Segmented assimilation is presented as a challenge to traditional theories of in
 
 Key drivers of integration in the ‘assimilation’ debates include racial minority status, human & financial capital, and social capital from ethnic ties. Curiously absent is a discussion of legal status. Why? Much of the early, cutting-edge work on legal status and the immigrant experience was done by young scholars. First read Abrego for an early intervention, then Gonzales. Theoretically and empirically, how are they the same, and how do they differ? Consider how social scientists should measure the effects of legal status. Are these attempts convincing? Why or why not? Note how the earliest work focused on adolescents. The limited work on illegality in the 1980s and 1990s in the US tended to be done by economists or economic sociologists interested in calculating the wage penalty of undocumented status. Gleeson does something different in her study of undocumented workers, as do Menjívar and Abrego. How does their work speak to the other readings from this week, and from February 15? An even newer wave of scholarship is now considering the effects of illegality on those hold status, or even citizenship. How does Dreby articulate these impacts? Finally, can migration law ever have salutary effects? Read Brown last and consider her arguments about the effects of designation as a refugee on people’s self-conceptions and actions. Compare and contrast Brown to Gleeson. Finally, take a step back. How would you succinctly summarize the insights from this corpus of work? Where do you think the field should now go, be it in theorization, or empirical research?
 
-  - @abrego2006can
-  - @gonzales2011learning
-  - @gleeson2010labor
-  - @menjivar2012legal
-  - @dreby2012burden
-  - @brown2011refugees
+  - @abrego2006can *
+  - @gonzales2011learning *
+  - @gleeson2010labor *
+  - @menjivar2012legal *
+  - @dreby2012burden *
+  - @brown2011refugees *
   - @yoshikawa2011immigrants (book)
   - @dreby2015everyday (book)
   - @gonzales2016lives (book)
