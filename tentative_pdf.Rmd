@@ -1,0 +1,30 @@
+---
+title: "tentative migration list"
+author: "Andrea Miranda-Gonzalez"
+date: "7/9/2020"
+output: 
+  pdf_document:
+    keep_tex: true
+    fig_caption: yes
+    latex_engine: pdflatex
+    template: "G:/Mi unidad/2020/Oral Exams/oral_exam_notes/svm-latex-syllabus.tex"
+geometry: margin=1in
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, dev='pdf')
+
+library(RefManageR)
+# library(knitcitations)
+# library(rcrossref)
+
+bib <- ReadBib("references_migration.bib",
+                check=F)
+myopts <- BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20)
+```
+
+
+# Social capital
+
+```{r, echo = FALSE, results="asis"} 
+bib["portes1998social"]
+``` 
