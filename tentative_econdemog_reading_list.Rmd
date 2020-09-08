@@ -1,0 +1,24 @@
+---
+title: "Tentative  Economic Demography Reading list"
+author: "Andrea Miranda-Gonzalez"
+date: "7/9/2020"
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    theme: flatly
+    highlight: haddock
+    toc_float: TRUE
+bibliography: references_econdemog.bib
+link-citations: yes
+biblio-style: apalike
+linkcolor: blue
+---
+
+
+# **Migration and development**
+lookat ASA syllabus and Zenteno's
+
+# **Self-selection in migration**
+Look at Zenteno's syllabus
+# **Effect in local economies**

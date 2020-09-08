@@ -1,0 +1,306 @@
+---
+title: "Tentative Migration Reading list"
+author: "Andrea Miranda-Gonzalez"
+date: "7/9/2020"
+output:
+  html_document:
+    highlight: haddock
+    number_sections: yes
+    theme: flatly
+    toc: yes
+    toc_float: yes
+link-citations: yes
+linkcolor: blue
+bibliography: references_migration.bib
+biblio-style: apalike
+---
+How do demographers view Migration?
+
+On the the interdisciplinary view of migration:
+
+ - @brettell2014migration
+ - @de2020age
+
+# **Why people migrate?** 
+## *Early economic theories*
+
+   - ~~@ravenstein1889laws~~
+   - ~~@sjaastad1962costs~~ 
+   - ~~@lee1966theory~~
+   - ~~@todaro1969model~~
+   - ~~@zelinsky1971hypothesis~~
+   - @harris1970migration
+   - @stark1989relative
+   - @stark1985new 
+   - @borjas1989economic
+   - @chiswick1999immigrants
+
+## *Contemporary sociological theories*
+
+   - ~~@massey1993theories~~
+   - ~~@sassen1989america~~
+   - ~~@massey1999why~~
+   - @garip2019move
+   - @piore1979birds
+   - ~~@mckeown2004global~~
+   - @hatton2005global
+   - @ryo2013deciding
+   - ~~@williams2012migration~~
+
+## *Role of the State*
+  - @zolberg1999matters   *
+  - @torpey1998coming
+  - @boswell2007theorizing
+  - @neumayer2005bogus *
+  - @freeman1995modes
+  - @hollifield2014dilemmas
+  - @cornelius2005controlling
+  - @ruhs2008numbers
+    
+
+***
+# **How do we observe migration? Data and measurements**
+## *Data sources*
+
+  - @hill1987new
+  - @shryock1973methods
+  - @massey1995new
+  - @kaplan2012interstate
+  - @schmertmann1992estimation
+  - @bell2003comparing
+  - @dumont2005counting
+  - @bycroft2006challenges
+  - @van2006foreign
+  - @nicholson1990hidden
+  - @rees2000problems
+  - @clark1985human (book, chp1)
+  - @skeldon1990population
+  - @beauchemin2014manifesto
+  - @zagheni2014inferring
+  - @messias2016migration
+  - @moed2014bibliometric
+  - @hawelka2014geo
+  - @zagheni2017leveraging
+  - @blumenstock2012inferring
+  - @ruggles2014big
+  - @hughes2016inferring
+  - @weber2015demographic
+  - @cesare2018promises
+  - @hughes2016inferring
+  
+  
+## *Methods*
+
+  - @bell2015demography
+  - @wachter2014essential
+  - @yusuf2014methods
+  - @rogers2010indirect
+  - @bell2015internal
+  - @bell2002cross
+  - @rees2000problems
+  - @rees2017impact
+  - @rogers1981model
+  - @bernard2017cohort
+  - @bernard2014life
+  - @bijak2005bayesian
+  - @bijak2010forecasting
+  - @klabunde2016decision
+  - @riosmena2016potential
+  - @liu2016prospects
+  
+## *Comments on type of methods: quantitative vs qualitative methods*
+  - @bloemraad2007puzzles
+  - @zenteno1999especificidad
+  - @massey2000validation
+  - @willekens2016international
+  
+   Handbook of research methods in migration
+   
+
+***
+# **Demographic processes within migration**
+## *Migration and Fertlity*
+
+  - @parrado2011high *
+  - @choi2012international *
+  - @friedlander1983demographic 
+  - @davis2010effects
+  - @kulu2005migration
+
+## *Migration and Mortality *
+
+## *Migration and the life course, aging and health*
+
+  - @palloni2004paradox *
+  - @riosmena2017explaining *
+  - @litwak1987migration 
+  - @vega2019reasons
+  - @acevedo2012integrating
+  - @ruiz2013hispanic
+  - @feliciano2005educational
+
+
+***
+# **Types of migration **
+## *Regional perspective: International migration*
+
+  - @mayda2010international
+  - @hanson2010great
+  
+## *Regional perspective: Internal migration & Urbanization*
+  
+  - @greenwood1997internal * 
+  - @johnson2017frozen 
+  - @flippen2013relative 
+  - @hall2015neighborhood
+  - @clark1991residential
+  - @davis1955origin *
+ 
+## *Refugees*
+Really need to go over papers here:
+
+  - @lee2002enforcing *
+  - @ngai2003strange *
+  - @de2004legal *
+  - ~~@menjivar2006liminal~~ *
+  - @hamlin2012symbolic *
+  - @nevins2002operation (book)
+  - @de2002migrant
+  
+## *Forced migration*
+  - @neumayer2004asylum
+  - @riosmena2018climate 
+  - @schon2019motivation
+  - @zolberg1986international
+  - @nwokeji2001african
+  - @horowitz1991victims
+
+***
+# **Who remains? Integration/Assimilation**
+
+  - ~~@gordon1964assimilation (book) Chapter 3~~ *
+  - @alba2009remaking (book) Chapters 1-2 & 6 *
+  - @kasinitz2009inheriting (book) Chapters 1,5 *
+  - @perlmann2005italians (book)
+  - @alba2014mexican
+  - @lee2015asian (book)
+  - @brown2006assimilation  *
+
+## *Segmented assimilation*
+
+  - @gans1992second *
+  - @portes1993new *
+  - @portes2009adaptation *
+  - @telles2008generations (book) Chapters 1-3, 5, 11 *
+  - @xie2011social
+  - @haller2011dreams
+  - @soehl2020social
+  
+## *Role of legal status*
+
+  - @sigona2012have  
+  - ~~@abrego2006can~~ * 
+  - ~~@gonzales2011learning~~ *
+  - ~~@gleeson2010labor~~ *
+  - ~~@menjivar2012legal~~ *
+  - ~~@dreby2012burden~~ *
+  - ~~@brown2011refugees~~ *
+  - ~~@menjivar2006liminal~~*
+  - @yoshikawa2011immigrants (book)
+  - @dreby2015everyday (book)
+  - @gonzales2016lives (book)
+  - @bean2015parents (book)
+  - @cainkar2009homeland (book)
+
+## *Undocumented migration*
+
+  - @donato2011we
+  - @massey2016border *
+  - @amuedo2014intended
+
+***
+# **Important characteristic of migrants**
+
+## *Gender* 
+  
+  - @pedraza1991women 
+  - ~~@hondagneu2000feminism~~
+  - ~~@lutz2010gender~~  
+  - ~~@mahler2006gender~~  
+  - @pessar2003transnational  
+  - @cantu2009sexuality  
+  - @acosta2008lesbianas  
+  - ~~@kunz2008remittances~~  
+  - ~~@semyonov2005labor~~  
+  - ~~@cerrutti2001auspices~~  
+  - ~~@curran2003engendering~~  
+  - ~~@kanaiaupuni2000reframing~~  
+  - ~~@massey2006international~~  
+
+## *Children*
+
+  - @huijsmans2011child
+  - @dobson2009unpacking
+  - @white2011children
+  - @donato2015children
+  - @donato2011migration
+  - @dreby2012burden
+  
+## *The family*
+
+  - @mincer1978family
+  - @boyd1989family
+  - @bielby1992will
+  - @shauman2007family
+  - @shauman2010gender
+  - @cooke2009longitudinal
+  - @raghuram2004difference
+  - @kulu2007family 
+  - @cooke2008migration  
+  - @lacroix2019life  
+  - @de2008family  
+  - @nobles2013migration  
+  - @nobles2011parenting  
+  - @gao2010impact  
+  - @yeung2016left  
+  - @de1993family  
+  - @de2008family  
+  - @desai2008negotiated  
+  - @de2010migration  
+
+## *Networks*
+
+  - @portes1998social
+  - @massey1993theories
+  - @granovetter1973
+  - @wilson1998weak
+  - @garip2008social
+  - @liu2013migrant
+  - @palloni2001social
+  - @mouw2006estimating
+  - @aguilera2003social
+  - @massey2011social
+  - @montgomery1991
+  - @davis2002domestic
+  - @fussell2004limits
+  - @delechat2001international
+  - @curran2003engendering
+  - @kanaiaupuni2000reframing
+  - @creighton2013migration
+
+# **Mexico-US migration**
+See syllabus for ''Teorias sociales de la migracion''
+
+  - @massey1997s *
+  - @fussell2004sources *
+  - @davis2002domestic
+  - @hill2005mexico
+  - @roberts1997china
+  - @durand2017
+Return migration, circular migration 
+
+# *References*
+
+
+
+
