@@ -120,20 +120,24 @@ $if(graphics)$
 $endif$
 
 
-$if(natbib)$
-\usepackage{natbib}
-\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
-$endif$
-$if(biblatex)$
-\usepackage$if(biblio-style)$[style=$biblio-style$]$endif${biblatex}
-$if(biblatexoptions)$\ExecuteBibliographyOptions{$for(biblatexoptions)$$biblatexoptions$$sep$,$endfor$}$endif$
-$for(bibliography)$
-\addbibresource{$bibliography$}
-$endfor$
-$endif$
+%$if(natbib)$
+%\usepackage{natbib}
+%\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
+%$endif$
+%$if(biblatex)$
+%\usepackage$if(biblio-style)$[style=$biblio-style$]$endif${biblatex}
+%$if(biblatexoptions)$\ExecuteBibliographyOptions{$for(biblatexoptions)$$biblatexoptions$$sep$,$endfor$}$endif$
+%$for(bibliography)$
+%\addbibresource{$bibliography$}
+%$endfor$
+%$endif$
+\usepackage[backend=biber,style=apa,citestyle=authoryear, natbib=true]{biblatex}
+
 $if(listings)$
 \usepackage{listings}
 $endif$
+
+
 
 \usepackage{setspace}
 

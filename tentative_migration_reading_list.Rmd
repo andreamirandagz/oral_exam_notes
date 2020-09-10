@@ -3,6 +3,8 @@ title: "Tentative Migration Reading list"
 author: "Andrea Miranda-Gonzalez"
 date: "7/9/2020"
 output:
+  pdf_document:
+    toc: yes
   html_document:
     highlight: haddock
     number_sections: yes
@@ -128,10 +130,11 @@ On the the interdisciplinary view of migration:
 
 ## *Migration and Mortality *
 
+  - ~~@palloni2004paradox~~ *
+  - ~~@riosmena2017explaining~~ *
+
 ## *Migration and the life course, aging and health*
 
-  - ~~@palloni2004paradox~~ *
-  - @riosmena2017explaining *
   - @litwak1987migration 
   - @vega2019reasons
   - @acevedo2012integrating
