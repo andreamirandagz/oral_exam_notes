@@ -75,35 +75,34 @@ On the the interdisciplinary view of migration:
   - @rees2000problems
   - @clark1985human (book, chp1)
   - @skeldon1990population
-  - @beauchemin2014manifesto
-  - @zagheni2014inferring
+  - ~~@beauchemin2014manifesto~~
+  - ~~@zagheni2014inferring~~
   - @messias2016migration
-  - @moed2014bibliometric
-  - @hawelka2014geo
-  - @zagheni2017leveraging
-  - @blumenstock2012inferring
+  - ~~@moed2014bibliometric~~
+  - ~~@hawelka2014geo~~
+  - ~~@zagheni2017leveraging~~
+  - ~~@blumenstock2012inferring~~
   - @ruggles2014big
-  - @hughes2016inferring
-  - @weber2015demographic
+  - ~~@hughes2016inferring~~
+  - ~~@weber2015demographic~~
   - @cesare2018promises
-  - @hughes2016inferring
-  
+
   
 ## *Methods*
 
-  - @bell2015demography
-  - @wachter2014essential
+  - ~~@bell2015demography~~
+  - ~~@wachter2014essential~~
   - @yusuf2014methods
-  - @rogers2010indirect
-  - @bell2015internal
-  - @bell2002cross
+  - ~~@rogers2010indirect~~
+  - ~~@bell2015internal~~
+  - ~~@bell2002cross~~
   - @rees2000problems
   - @rees2017impact
   - @rogers1981model
   - @bernard2017cohort
   - @bernard2014life
-  - @bijak2005bayesian
-  - @bijak2010forecasting
+  - ~~@bijak2005bayesian~~
+  - ~~@bijak2010forecasting~~
   - @klabunde2016decision
   - @riosmena2016potential
   - @liu2016prospects
@@ -131,7 +130,7 @@ On the the interdisciplinary view of migration:
 
 ## *Migration and the life course, aging and health*
 
-  - @palloni2004paradox *
+  - ~~@palloni2004paradox~~ *
   - @riosmena2017explaining *
   - @litwak1987migration 
   - @vega2019reasons
@@ -239,17 +238,17 @@ Really need to go over papers here:
 
 ## *Children*
 
-  - @huijsmans2011child
-  - @dobson2009unpacking
+  - ~~@huijsmans2011child~~
+  - ~~@dobson2009unpacking~~
   - @white2011children
   - @donato2015children
   - @donato2011migration
-  - @dreby2012burden
+  - ~~@dreby2012burden~~
   
 ## *The family*
 
-  - @mincer1978family
-  - @boyd1989family
+  - ~~@mincer1978family~~
+  - ~~@boyd1989family~~
   - @bielby1992will
   - @shauman2007family
   - @shauman2010gender
@@ -271,22 +270,22 @@ Really need to go over papers here:
 ## *Networks*
 
   - @portes1998social
-  - @massey1993theories
-  - @granovetter1973
+  - ~~@massey1993theories~~
+  - ~~@granovetter1973~~
   - @wilson1998weak
-  - @garip2008social
-  - @liu2013migrant
+  - ~~@garip2008social~~
+  - ~~@liu2013migrant~~
   - @palloni2001social
   - @mouw2006estimating
   - @aguilera2003social
   - @massey2011social
   - @montgomery1991
   - @davis2002domestic
-  - @fussell2004limits
-  - @delechat2001international
-  - @curran2003engendering
-  - @kanaiaupuni2000reframing
-  - @creighton2013migration
+  - ~~@fussell2004limits~~
+  - ~~@delechat2001international~~
+  - ~~@curran2003engendering~~
+  - ~~@kanaiaupuni2000reframing~~
+  - ~~@creighton2013migration~~
 
 # **Mexico-US migration**
 See syllabus for ''Teorias sociales de la migracion''
@@ -296,7 +295,7 @@ See syllabus for ''Teorias sociales de la migracion''
   - @davis2002domestic
   - @hill2005mexico
   - @roberts1997china
-  - @durand2017
+  - ~~@durand2017~~
 Return migration, circular migration 
 
 # *References*
