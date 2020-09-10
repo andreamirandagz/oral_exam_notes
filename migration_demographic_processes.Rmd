@@ -1,0 +1,63 @@
+---
+title: "Demographic processes and migration"
+author: "Andrea Miranda-Gonzalez"
+date: "8/9/2020"
+output:
+  html_document:
+    highlight: haddock
+    number_sections: yes
+    theme: flatly
+    toc: yes
+    toc_float: yes
+link-citations: yes
+linkcolor: blue
+bibliography: references_migration.bib
+biblio-style: apalike
+---
+
+# **Migration and Fertlity**
+
+  - @parrado2011high *
+  - @choi2012international *
+  - @friedlander1983demographic 
+  - @davis2010effects
+  - @kulu2005migration
+
+# **Migration and Mortality **
+  - **@palloni2004paradox**  
+    - Title: *Paradox lost: explaining the hispanic adult mortality advantage*
+    - First, what is this paradox? Studies have found that mortality of Hispanics is lower than that of non-Hispanic whites, even after controlling for family, demographic and socioeconomic characteristics. This is particularly interesting because the same population has been associated with lower socioeconomic levels (relative to non-Hispanic whites), while higher socioeconomic levels seem to lower mortality. Thus, the paradox is that how is it possible that Hispanics have lower mortality and lower socioeconomic levels relative to non-Hispanic whites?
+    - Research Question: Does the hispanic mortality paradox exist?
+      - This paper tests the presence of the hispanic mortality paradox in the context of three potential reasons behind it.
+        1. Data artifacts: 
+          i) underreporting and incongruence in reporting ethnicity (ethnic identification)
+          ii) Misreporting of ages: older folks ( +55 or 60) overstate their ages. 
+          iii) Mismatches of records
+        2. Migration effects: 
+          i) Healthy-migrant effect: there is a positive selection by migrants based on health. "population of successful migrants is not a random draw from the health distribution of the origin population." Affects all ages of migrants. 
+          ii) Salmon-bias / return migration effect: this occurs when migrants tend to return to their country of origin after being ill or unemployed. So, the foreign-born population that remains (after those that are ill return home) is more healthy than if these migrants have stayed. Might particularly affect the effect from older migrants.
+        3. Cultural effect: "Hispanic mortality advantage is a function of social and cultural characteristics that differentiate this population from the non-Hispanic population, rather than selection". Some of these reasons reside within the family, social networks and lifestyle behaviours. 
+    - Data: NHIS (National Health Interview Survey)- Multiple Cause of Death (MCD) data file. NHIS-MCD is then linked to 9 NHIS to get mortality 
+    - Method: parametric hazard model (gompertz) with dummies for US born hispanic group and foreign-born Hispanic group. Controls for ethnic group, marital status, SES, nativity and depending on the model, for duration of residence, state of residence and an index of ethnic isolation.
+    - Main results: 
+      - Unlikely that data issues that can drive the HMA
+      - Hispanic mortality advantage only in foreign-born Mexicans (ie. excludes Cubans and Puerto Ricans).
+      - Advantages occur in the shortest and longest stays, so no strong evidence that assimilated migrants have mortality levels similar to non-hispanic whites (no strong evidence for healthy-migrant effect).
+      - Some evidence that return migration drives the HMA for foreign-bon Mexicans (no effect on foreing-born other hispanics).
+      - No strong evidence for cultural advantage.
+      
+      
+# **Migration and the life course, aging and health**
+
+
+    
+  - @riosmena2017explaining *
+  - @litwak1987migration 
+  - @vega2019reasons
+  - @acevedo2012integrating
+  - @ruiz2013hispanic
+  - @feliciano2005educational
+
+
+
+
