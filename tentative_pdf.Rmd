@@ -73,18 +73,18 @@ bib[c("bloemraad2007puzzles","zenteno1999especificidad","massey2000validation","
 
 ***
 # **Demographic processes within migration**
-## *Migration and Fertlity*
+## *Migration and fertility*
 ```{r, echo = FALSE, results="asis"} 
 bib[c("parrado2011high","choi2012international","friedlander1983demographic",
 "davis2010effects","kulu2005migration")]
 ```
 
-## *Migration and Mortality *
+## *Migration, health and mortality*
 ```{r, echo = FALSE, results="asis"} 
 bib[c("palloni2004paradox","riosmena2017explaining")]
 ```
 
-## *Migration and the life course, aging and health*
+## *Migration, aging and the life course*
 ```{r, echo = FALSE, results="asis"} 
 bib[c("litwak1987migration","vega2019reasons","acevedo2012integrating","ruiz2013hispanic","feliciano2005educational")]
 
@@ -92,33 +92,26 @@ bib[c("litwak1987migration","vega2019reasons","acevedo2012integrating","ruiz2013
 
 ***
 # **Types of migration **
-## *Regional perspective: International migration*
+## *International and internal migration*
 ```{r, echo = FALSE, results="asis"} 
-bib[c("mayda2010international","hanson2010great")]
+bib[c("mayda2010international","hanson2010great","greenwood1997internal","johnson2017frozen","flippen2013relative")]
 ```  
 
-## *Regional perspective: Internal migration & Urbanization*
+## *Urbanization*
 ```{r, echo = FALSE, results="asis"} 
-bib[c("greenwood1997internal","johnson2017frozen","flippen2013relative","hall2015neighborhood","clark1991residential","davis1955origin")]
+bib[c("hall2015neighborhood","clark1991residential","davis1955origin")]
 ``` 
 
-## *Refugees* 
-Note: Really need to go over papers here.
+## *Forced migration* 
 
 ```{r, echo = FALSE, results="asis"} 
-bib[c("lee2002enforcing","ngai2003strange","de2004legal","menjivar2006liminal","hamlin2012symbolic","nevins2002operation","de2002migrant")]
-
+bib[c("lee2002enforcing","ngai2003strange","de2004legal","menjivar2006liminal","hamlin2012symbolic","nevins2002operation","de2002migrant","neumayer2004asylum","riosmena2018climate","schon2019motivation","zolberg1986international","nwokeji2001african","horowitz1991victims")]
 ```  
 
-## *Forced migration*
-```{r, echo = FALSE, results="asis"} 
-bib[c("neumayer2004asylum","riosmena2018climate","schon2019motivation","zolberg1986international","nwokeji2001african","horowitz1991victims")]
-```
-
 ***
-# **Who remains? Integration/Assimilation**
+# **Integration/Assimilation**
 ```{r, echo = FALSE, results="asis"} 
-bib[c("gordon1964assimilatio","alba2009remaking","kasinitz2009inheriting","perlmann2005italians","alba2014mexican","lee2015asian","brown2006assimilation")]
+bib[c("gordon1964assimilation","alba2009remaking","kasinitz2009inheriting","perlmann2005italians","alba2014mexican","lee2015asian","brown2006assimilation")]
 ```
 
 ## *Segmented assimilation*

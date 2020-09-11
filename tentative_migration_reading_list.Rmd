@@ -120,7 +120,7 @@ On the the interdisciplinary view of migration:
 
 ***
 # **Demographic processes within migration**
-## *Migration and Fertlity*
+## *Migration and fertility*
 
   - @parrado2011high *
   - @choi2012international *
@@ -128,12 +128,12 @@ On the the interdisciplinary view of migration:
   - @davis2010effects
   - @kulu2005migration
 
-## *Migration and Mortality *
+## *Migration, health and mortality*
 
   - ~~@palloni2004paradox~~ *
   - ~~@riosmena2017explaining~~ *
 
-## *Migration and the life course, aging and health*
+## *Migration, aging and the life course*
 
   - @litwak1987migration 
   - @vega2019reasons
@@ -144,22 +144,23 @@ On the the interdisciplinary view of migration:
 
 ***
 # **Types of migration **
-## *Regional perspective: International migration*
+## *International and internal migration*
+Need to add more on return migration, circular migration, temporary and seasonal migration. 
 
   - @mayda2010international
   - @hanson2010great
-  
-## *Regional perspective: Internal migration & Urbanization*
-  
-  - @greenwood1997internal * 
   - @johnson2017frozen 
-  - @flippen2013relative 
+  - @flippen2013relative
+  - @greenwood1997internal * 
+  
+## *Urbanization*
+
   - @hall2015neighborhood
   - @clark1991residential
   - @davis1955origin *
  
-## *Refugees*
-Really need to go over papers here:
+## *Forced migration*
+This should include refugees and slavery. 
 
   - @lee2002enforcing *
   - @ngai2003strange *
@@ -168,8 +169,6 @@ Really need to go over papers here:
   - @hamlin2012symbolic *
   - @nevins2002operation (book)
   - @de2002migrant
-  
-## *Forced migration*
   - @neumayer2004asylum
   - @riosmena2018climate 
   - @schon2019motivation
@@ -178,7 +177,7 @@ Really need to go over papers here:
   - @horowitz1991victims
 
 ***
-# **Who remains? Integration/Assimilation**
+# **Integration/Assimilation**
 
   - ~~@gordon1964assimilation (book) Chapter 3~~ *
   - @alba2009remaking (book) Chapters 1-2 & 6 *
