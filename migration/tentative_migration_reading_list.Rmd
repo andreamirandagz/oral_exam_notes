@@ -22,6 +22,7 @@ On the the interdisciplinary view of migration:
 
  - @brettell2014migration
  - @de2020age
+ - @cushing2004crossing
 
 # **Why people migrate?** 
 ## *Early economic theories*
@@ -132,6 +133,8 @@ On the the interdisciplinary view of migration:
 
   - ~~@palloni2004paradox~~ *
   - ~~@riosmena2017explaining~~ *
+  - @diaz2016moving
+  - @arenas2015return
 
 ## *Migration, aging and the life course*
 
@@ -163,12 +166,7 @@ Need to add more on return migration, circular migration, temporary and seasonal
 This should include refugees and slavery. 
 
   - @lee2002enforcing *
-  - @ngai2003strange *
-  - @de2004legal *
-  - ~~@menjivar2006liminal~~ *
   - @hamlin2012symbolic *
-  - @nevins2002operation (book)
-  - @de2002migrant
   - @neumayer2004asylum
   - @riosmena2018climate 
   - @schon2019motivation
@@ -184,7 +182,6 @@ This should include refugees and slavery.
   - @kasinitz2009inheriting (book) Chapters 1,5 *
   - @perlmann2005italians (book)
   - @alba2014mexican
-  - @lee2015asian (book)
   - @brown2006assimilation  *
 
 ## *Segmented assimilation*
@@ -198,7 +195,6 @@ This should include refugees and slavery.
   - @soehl2020social
   
 ## *Role of legal status*
-
   - @sigona2012have  
   - ~~@abrego2006can~~ * 
   - ~~@gonzales2011learning~~ *
@@ -218,6 +214,11 @@ This should include refugees and slavery.
   - @donato2011we
   - @massey2016border *
   - @amuedo2014intended
+  - @de2004legal *
+  - @ngai2003strange *
+  - @de2002migrant
+  - @lee2015asian (book)
+  - @nevins2002operation (book)
 
 ***
 # **Important characteristic of migrants**

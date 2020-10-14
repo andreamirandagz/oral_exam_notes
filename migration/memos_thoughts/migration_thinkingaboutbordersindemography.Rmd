@@ -1,0 +1,24 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# How do borders fit in Demography and migration?
+
+Irene's specific comment was: "Let's talk about politics, law, and state power. From a demography perspective, this is especially important in consideration of internal versus international migration. How do we think about international state-delineated borders? An extra transactional cost? Differential goods and costs in cost/ benefit analysis? What about the extent to which international borders also delineate cultural, economic and social spheres? Is this a question of gradients (international is just a gradient up from internal migration) or is it fundamentally different in kind?"
+  
+  - While they are treated differently in terms of measures and statistics, it's hard for me to see how the borders are seen. 
+  - In my mind, the borders are in some cases arbitrary lines from political/ administrative processes. However, they determine the basic unit of analysis. In spatial econometrics/methods, we know that the definition of the are of influence is as fundamental as the outcome analyzed. So why should this be different in demography?
+  - @cushing2004crossing: This is a really good paper even if it misses much of the demography literature. It tries to bridge the methods and results within economics to the typical sociological theories. It also critisizes the fact that much of migration analysis has ignored the spatial component. That is there has been a focus on micro and macro data and the analysis has been driven by the underlying assumptions limited by each of the data. They argue that the gravity model is the main model to take into account space (but they don't talk about spatial correlation, which is equally important and an integrated aspect in much of demography, not necessarily in migration...). When it comes down to comparing internal vs international migration, they note that many of the measures in demography are used interchangeably to account for each of these migration flows BUT when it comes down to predicting it's important to take into account borders (ie. a border effect) for international migration. 
+    - A note on the gravity model: it fixes the absence of accounting for distance. The main assumption of the gravity model is that population is attracted more to closer area. Thus, the gravity model penalizes more larger distances such that it does not predict flows to communities that are far away. How do borders come at play here? Implicitly, international borders can be further away than state borders so, flows abroad should be smaller. A very big flaw here appears when states are along an international border. 
+    - Borders are an element of distance. Distance can model borders. But we need more assumptions as to what a border means in the gravity model. There is no free physical mobility, so why assume that there is? Is distance really enough to understand borders?
+    
+    - Overall, there isn't really a concern for borders in the measures for migration. There should be when attempting to understand/predict size of flows as well as the characteristics of migrants.
+    
+    - IS DEMOGRAPHY MORE CONCERNED ABOUT THE COUNTING OF MIGRANTS RATHER THAN UNDERSTANDING WHO MIGRATES?
+      - I don't necessarily think so, but I do think there is an oversimplification of what borders/boundaries mean.
+      - Beyond it being a matter of distance, how do borders affect the choice of migration. 
+      -
+
+
+

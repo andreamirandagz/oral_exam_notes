@@ -1,0 +1,52 @@
+---
+title: "Tentative  Economic Demography Reading list"
+author: "Andrea Miranda-Gonzalez"
+date: "7/9/2020"
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    theme: flatly
+    highlight: haddock
+    toc_float: TRUE
+bibliography: references_econdemog.bib
+link-citations: yes
+biblio-style: apalike
+linkcolor: blue
+---
+
+theory, SES, gender, race, causality, trends
+# **Family, marriage and fertility**
+
+## Marriage
+  - @becker1977economic
+  - @becker1988family
+  - @becker1974theory   (choose one of the beckers)
+  - @bergstrom1997survey (an alternative to becker)
+  - @stevenson2007marriage (y)
+  - @chiswick2011ethnic ** Migration
+  - @greenwood2014marry  Education
+  - @alesina2010power 
+  - @folke2020all <- Divorce and female employment
+  - @abramowitz2016saying <- Probability of getting married + healthcare
+  - @angrist2002sex Sex ratio on marriage options
+
+## Family and Fertility
+
+  - @becker1992fertility Theory
+  - @goldin2006quiet Female labor force participation
+  - @angrist2010multiple Empirical Quality/Quantity tradeoff
+  - @buckles2019fertility Decreasing trends in fertility US
+  - @dahl2008demand demand for children
+  - @kearney2015media  MTV and teenage pregnancies
+  - @goldin2002power Effect of the pill
+  - @beine2013international Migrant Fertility at origin and destination 
+  - @fargues2011international migration and the demog transition
+
+
+# **Migration and development**
+lookat ASA syllabus and Zenteno's
+
+# **Self-selection in migration**
+Look at Zenteno's syllabus
+# **Effect in local economies**

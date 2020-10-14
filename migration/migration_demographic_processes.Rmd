@@ -45,13 +45,16 @@ biblio-style: apalike
       - Advantages occur in the shortest and longest stays, so no strong evidence that assimilated migrants have mortality levels similar to non-hispanic whites (no strong evidence for healthy-migrant effect).
       - Some evidence that return migration drives the HMA for foreign-bon Mexicans (no effect on foreing-born other hispanics).
       - No strong evidence for cultural advantage.
-      
+  - **@riosmena2017explaining**
+    - Title: *Explaining the Immigrant Health Advantage: Self-selection and Protection in Health-Related Factors Among Five Major National-Origin Immigrant Groups in the United States*
+    - Research question: Can the immigrant health advantage (IHA) be explained by using variation in 5 immigrant groups? In particular, can we attribute it to a self-selection or protection process?
+    
       
 # **Migration and the life course, aging and health**
 
 
     
-  - @riosmena2017explaining *
+
   - @litwak1987migration 
   - @vega2019reasons
   - @acevedo2012integrating

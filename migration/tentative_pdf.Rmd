@@ -105,7 +105,7 @@ bib[c("hall2015neighborhood","clark1991residential","davis1955origin")]
 ## *Forced migration* 
 
 ```{r, echo = FALSE, results="asis"} 
-bib[c("lee2002enforcing","ngai2003strange","de2004legal","menjivar2006liminal","hamlin2012symbolic","nevins2002operation","de2002migrant","neumayer2004asylum","riosmena2018climate","schon2019motivation","zolberg1986international","nwokeji2001african","horowitz1991victims")]
+bib[c("lee2002enforcing","hamlin2012symbolic","neumayer2004asylum","riosmena2018climate","schon2019motivation","zolberg1986international","nwokeji2001african","horowitz1991victims")]
 ```  
 
 ***
@@ -126,7 +126,7 @@ bib[c("sigona2012have","abrego2006can","gonzales2011learning","gleeson2010labor"
 
 ## *Undocumented migration*
 ```{r, echo = FALSE, results="asis"} 
-bib[c("donato2011we","massey2016border","amuedo2014intended")]
+bib[c("donato2011we","massey2016border","amuedo2014intended","ngai2003strange","de2004legal","de2002migrant","nevins2002operation")]
 ```
 ***
 
