@@ -15,6 +15,12 @@ biblio-style: apalike
 linkcolor: blue
 ---
 
+# Demographic Transition
+
+  - @lee2003demographic
+  - @lee2014low
+  - @gerland2014world
+
 theory, SES, gender, race, causality, trends
 # **Family, marriage and fertility**
 
@@ -34,19 +40,79 @@ theory, SES, gender, race, causality, trends
 ## Family and Fertility
 
   - @becker1992fertility Theory
+  - @bergmann1995becker Criticism of Becker
+  - @pollak2003gary Auxiliary assumptions for Becker
   - @goldin2006quiet Female labor force participation
   - @angrist2010multiple Empirical Quality/Quantity tradeoff
   - @buckles2019fertility Decreasing trends in fertility US
   - @dahl2008demand demand for children
   - @kearney2015media  MTV and teenage pregnancies
+  - @buckles2013season effect of birth season on later outcomes
   - @goldin2002power Effect of the pill
   - @beine2013international Migrant Fertility at origin and destination 
   - @fargues2011international migration and the demog transition
 
 
+
+# **Heatlh and mortality**
+
+## Health
+
+  - @black2007cradle Birth weight effect on adult outcomes
+  - @vogl2014height Better labor and life outcomes when tall
+  - @cutler2008socioeconomic OVerview of SES effects on health
+  - @
+  
+  Broken Down by Work and Sex:
+How Our Health Declines Anne Case and Angus Deaton
+
+Effects of non-health-targeted policies on migrant health: a systematic review and meta-analysis
+
+## Mortality
+
+  - @case2017mortality Trends during the 21st century and mortality differentials
+  - @eggleston2012new Life expectancy gains
+  - @casamatta2016political Pension system overview
+
+
+# Life cycle and aging
+
+  - @lee2010some
+
+# Population diversity/heterogeneity
+
+  - @bertrand2000network Language networks and access to services
+  
+
+## Race
+
+# Migration
+
+  - @stark1985new New economics of labor migration (theory paper)
+  
+  
 # **Migration and development**
+I want to look at remittances, development of community back home, fluctuations with the economy, social capital, family development
 lookat ASA syllabus and Zenteno's
 
-# **Self-selection in migration**
+Macro 
+
+  - @Dao2018 Mobility transition: increase emigration with development
+
+
+Micro
+
+  - @amuedo2006migration employment of remittance receivers in Mexico
+  - @villarreal2013job Job characteristics
+
+remittances--> income elasticities and changes on hours worked (beyond development)
+
+
+# **Self-selection in migration**/migration caveats?
+who migrates? trends over the years
+
+  - @carrington1996migration incorporating endogeneity of migration decision
+  - @munshi2003networks 
+
 Look at Zenteno's syllabus
 # **Effect in local economies**

@@ -15,6 +15,9 @@ biblio-style: apalike
 linkcolor: blue
 ---
 
+# Demographic transition
+
+  - @gerland2014world
 
 # Gender and economics
 
@@ -25,3 +28,15 @@ linkcolor: blue
 
   - @becker1974theory
 
+# Causality
+
+  - @scott2019causal
+  - @heckman2005scientific
+  - @moffitt2008estimating
+  
+# Migration 
+## Migration and development
+
+  - @Clemens2014 (Theory)
+  - @DeHaas2010 (Theory)
+  

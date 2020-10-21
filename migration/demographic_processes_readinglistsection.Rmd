@@ -1,0 +1,47 @@
+---
+title: "Demographic processes & Migration (Reading list section)"
+author: "Andrea Miranda-Gonzalez"
+date: "October 2020"
+output: 
+  pdf_document:
+    toc: true
+    keep_tex: true
+    fig_caption: yes
+    latex_engine: xelatex
+    #template: "G:/Mi unidad/2020/Oral Exams/oral_exam_notes/svm-latex-syllabus.tex"
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 12pt
+header-includes:
+   - \linespread{1.05}
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, dev='pdf')
+
+library(RefManageR)
+# library(knitcitations)
+# library(rcrossref)
+
+bib <- ReadBib("references_migration.bib",
+                check=F)
+myopts <- BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20, sorting="ydnt")
+```
+
+# **Demographic processes within migration**
+## *Migration and fertility*
+```{r, echo = FALSE, results="asis"} 
+bib[c("parrado2011high","choi2012international","friedlander1983demographic",
+"davis2010effects","kulu2005migration")]
+```
+
+## *Migration, health and mortality*
+```{r, echo = FALSE, results="asis"} 
+bib[c("palloni2004paradox","riosmena2017explaining")]
+```
+
+## *Migration, aging and the life course*
+```{r, echo = FALSE, results="asis"} 
+bib[c("litwak1987migration","vega2019reasons","acevedo2012integrating","ruiz2013hispanic","feliciano2005educational")]
+
+```

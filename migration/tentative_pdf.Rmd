@@ -130,7 +130,7 @@ bib[c("donato2011we","massey2016border","amuedo2014intended","ngai2003strange","
 ```
 ***
 
-# **Important characteristic of migrants**
+<!-- # **Important characteristic of migrants**
 
 ## *Gender* 
 ```{r, echo = FALSE, results="asis"} 
@@ -159,7 +159,8 @@ See syllabus for ''Teorias sociales de la migracion''. Also need to talk about r
 ```{r, echo = FALSE, results="asis"} 
 bib[c("massey1997s","fussell2004sources","davis2002domestic","hill2005mexico","roberts1997china","durand2017")]
 
-```
+``` -->
+
 
 
 
