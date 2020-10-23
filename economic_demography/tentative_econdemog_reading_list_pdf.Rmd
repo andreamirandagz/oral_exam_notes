@@ -1,0 +1,89 @@
+---
+title: "Tentative Economic Demography Reading List"
+author: "Andrea Miranda-Gonzalez"
+date: "October 2020"
+output: 
+  pdf_document:
+    toc: true
+    keep_tex: true
+    fig_caption: yes
+    latex_engine: xelatex
+    #template: "G:/Mi unidad/2020/Oral Exams/oral_exam_notes/svm-latex-syllabus.tex"
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 12pt
+header-includes:
+   - \linespread{1.05}
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, dev='pdf')
+
+library(RefManageR)
+# library(knitcitations)
+# library(rcrossref)
+
+bib <- ReadBib("references_econdemog_mendeley.bib",
+                check=F)
+myopts <- BibOptions(style="latex", first.inits=FALSE, max.names = 20, sorting="ynt")
+```
+
+
+# **Population and economic growth**
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Lee2003a","Kelley2005","Eggertsson2019","galor2000","Kremer1993","acemoglu2007","Alesina2016","Clemens2018")]
+```
+
+# **Economics of fertility, marriage and family**
+
+## Family and Fertility
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Bergstrom1997","Alesina2010","Dahl2008","Angrist2010","Becker1992","Goldin2006","Buckles2019")]
+```
+
+## Marriage
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Stevenson2007","Chiswick2011","Folke2020","Angrist2002")]
+```
+
+# **Economics of heatlh and mortality**
+
+## Health
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Black2007","Cutler2012","Currie2009","Giuntella2017")]
+```
+
+## Mortality
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Case2017","Eggleston2012","preston1975","Stevens2015")]
+```
+
+# **Population life cycle and intergenerational transfers**
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Lee1994","Cutler1990","Antman2011","Chetty2014","Poterba2014")]
+```
+
+# **Migration**
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Stark1985","Card2009","Ottaviano2012","Blau2017","Dao2018","McKenzie2014")]
+```
+
+## Migration and development
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Amuedo-Dorantes2011","Villarreal2014","Morten2019","Alcaraz2012","Angelucci2015")]
+```
+
+## Self-selection in migration/Who migrates
+
+```{r, echo = FALSE, results="asis"} 
+bib[c("Moraga2011","Baudasse2014","McKenzie2010","Dustmann2016")]
+```
+

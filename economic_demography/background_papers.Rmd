@@ -9,34 +9,111 @@ output:
     theme: flatly
     highlight: haddock
     toc_float: TRUE
-bibliography: references_econdemog.bib
+bibliography: references_econdemog_mendeley.bib
 link-citations: yes
 biblio-style: apalike
 linkcolor: blue
 ---
 
-# Demographic transition
+# **Population and economic growth**
 
+  - @lee2014low
   - @gerland2014world
+  - @fargues2011international migration and the demog transition
+  - @bloom2009
+  - @bloom2001
+  - @Clemens2019
+  - @Eggertsson2019
+  - @acemoglu2007
+  - @Kremer1993
+
+# **Economics of fertility, marriage and family**
+## Marriage
+  - @Becker1977
+  - @Becker1988
+  - @Becker1973
+  - @Becker1974
+  - @Greenwood2014   Possitive assortativity in marriage? Education
+  - @Goldin2002 Effect of the pill
+  - @Hitsch2010
+  - @Lundberg2003
+  - @Foged2016
+
+## Family
+  - @Bergstrom1997 Theory on family
+  - @Mincer1978 * (migration and family)
+  - @Sandell2016    (women and family migration)
+  - @Bergmann1995 Criticism of Becker * 
+  - @Pollak2003 Auxiliary assumptions for Becker
+  - @Nivalainen2004 
+  
+## Fertility
+
+  - @Kearney2015  MTV and teenage pregnancies
+  - @Beine2013 Migrant Fertility at origin and destination 
+  - @Stevenson2009
+  - @Blau1992
+  
+  
+# **Economics of health and mortality**
+## Health
+
+  - @Buckles2013 effect of birth season on later outcomes
+  - @vogl2014height Better labor and life outcomes when tall
+  - @casamatta2016political Pension system overview
+  - @Case2005
+  - @Cutler2006
+  - @Deri2005
+
+## Mortality
+
+  - @Buckles2016
+  - @acemoglu2007
+  - @preston1975
+
+  
+# **Life cycle and intergenerational transfers**
+
+  - @Duflo2003a
+  - @Currie2003
+  - @Poterba2001
+  - @Chetty2018
+  - @Chetty2018a
+  - @Smith2003
+  
+# **Migration** 
+## Migration and development & Self selection of migrants  
+
+  - @Clemens2014 (Theory)
+  - @DeHaas2010 (Theory)
+  - @Bettin2012
+  - @Cox-Edwards2009
+  - @FinkelsteinShapiro2016
+  - @Hamilton2020
+  - @Hanson2010
+  - @Kaestner2014
+  - @Mckenzie2007
+  - @Carrington1996
+  - @munshi2003networks 
+  - @Rapoport2006
+  - @Taylor2016
+  - @Villarreal2013
+  - @Wassink2020
+  - @Woodruff2007
+  - @McKenzie2014
 
 # Gender and economics
 
   - @stevenson2009paradox
   - @nelson2003feminist
 
-# Economics and marriage:
-
-  - @becker1974theory
-
 # Causality
 
   - @scott2019causal
   - @heckman2005scientific
   - @moffitt2008estimating
-  
-# Migration 
-## Migration and development
 
-  - @Clemens2014 (Theory)
-  - @DeHaas2010 (Theory)
+# Population diversity/heterogeneity
+
+  - @bertrand2000network Language networks and access to services
   

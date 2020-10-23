@@ -9,110 +9,85 @@ output:
     theme: flatly
     highlight: haddock
     toc_float: TRUE
-bibliography: references_econdemog.bib
+bibliography: references_econdemog_mendeley.bib
 link-citations: yes
 biblio-style: apalike
 linkcolor: blue
 ---
 
-# Demographic Transition
+# **Population and economic growth**
 
-  - @lee2003demographic
-  - @lee2014low
-  - @gerland2014world
+  - @Lee2003a
+  - @Kelley2005
+  - @Eggertsson2019
+  - @galor2000
+  - @Alesina2016
+  - @Clemens2018
+    
 
-theory, SES, gender, race, causality, trends
-# **Family, marriage and fertility**
-
-## Marriage
-  - @becker1977economic
-  - @becker1988family
-  - @becker1974theory   (choose one of the beckers)
-  - @bergstrom1997survey (an alternative to becker)
-  - @stevenson2007marriage (y)
-  - @chiswick2011ethnic ** Migration
-  - @greenwood2014marry  Education
-  - @alesina2010power 
-  - @folke2020all <- Divorce and female employment
-  - @abramowitz2016saying <- Probability of getting married + healthcare
-  - @angrist2002sex Sex ratio on marriage options
-
+# **Economics of fertility, marriage and family**
 ## Family and Fertility
 
-  - @becker1992fertility Theory
-  - @bergmann1995becker Criticism of Becker
-  - @pollak2003gary Auxiliary assumptions for Becker
-  - @goldin2006quiet Female labor force participation
-  - @angrist2010multiple Empirical Quality/Quantity tradeoff
-  - @buckles2019fertility Decreasing trends in fertility US
-  - @dahl2008demand demand for children
-  - @kearney2015media  MTV and teenage pregnancies
-  - @buckles2013season effect of birth season on later outcomes
-  - @goldin2002power Effect of the pill
-  - @beine2013international Migrant Fertility at origin and destination 
-  - @fargues2011international migration and the demog transition
+  - @Alesina2010  strength of ties in a family (assess second gen immigrants)
+  - @Dahl2008 demand for children and effects on marriage
+  - @Angrist2010 Empirical Quality/Quantity tradeoff  
+  - @Becker1992 Theory *
+  - @Goldin2006 Female labor force participation
+  - @Buckles2019 Decreasing trends in fertility US, unintended births
+
+## Marriage
+
+  - @Stevenson2007 
+  - @Chiswick2011 ** Migration
+  - @Folke2020 Divorce and female employment
+  - @Angrist2002 Sex ratio on marriage options (second generation)
 
 
 
-# **Heatlh and mortality**
-
+# **Economics of heatlh and mortality**
 ## Health
 
-  - @black2007cradle Birth weight effect on adult outcomes
-  - @vogl2014height Better labor and life outcomes when tall
-  - @cutler2008socioeconomic OVerview of SES effects on health
-  - @
-  
-  Broken Down by Work and Sex:
-How Our Health Declines Anne Case and Angus Deaton
-
-Effects of non-health-targeted policies on migrant health: a systematic review and meta-analysis
+  - @Black2007 Birth weight effect on adult outcomes
+  - @Cutler2012 OVerview of SES effects on health
+  - @Currie2009
+  - @Giuntella2017
 
 ## Mortality
 
-  - @case2017mortality Trends during the 21st century and mortality differentials
-  - @eggleston2012new Life expectancy gains
-  - @casamatta2016political Pension system overview
+  - @Case2017 Trends during the 21st century and mortality differentials
+  - @Eggleston2012 Life expectancy gains
+  - @Stevens2015
 
 
-# Life cycle and aging
 
-  - @lee2010some
+# **Population life cycle and intergenerational transfers**
 
-# Population diversity/heterogeneity
+  - @Lee1994
+  - @Cutler1990
+  - @Antman2011
+  - @Chetty2014
+  - @Poterba2014
 
-  - @bertrand2000network Language networks and access to services
-  
 
-## Race
+# **Migration**
 
-# Migration
-
-  - @stark1985new New economics of labor migration (theory paper)
-  
-  
-# **Migration and development**
-I want to look at remittances, development of community back home, fluctuations with the economy, social capital, family development
-lookat ASA syllabus and Zenteno's
-
-Macro 
-
+  - @Stark1985 
+  - @Card2009
+  - @Ottaviano2012
+  - @Blau2017
   - @Dao2018 Mobility transition: increase emigration with development
+  
+## Migration and development
 
+  - @Amuedo-Dorantes2011 
+  - @Villarreal2014
+  - @Morten2019
+  - @Alcaraz2012
+  - @Angelucci2015
 
-Micro
+## Self-selection in migration/Who migrates
+  - @Moraga2011
+  - @Baudasse2014
+  - @McKenzie2010
+  - @Dustmann2016
 
-  - @amuedo2006migration employment of remittance receivers in Mexico
-  - @villarreal2013job Job characteristics
-
-remittances--> income elasticities and changes on hours worked (beyond development)
-
-
-# **Self-selection in migration**/migration caveats?
-who migrates? trends over the years
-
-  - @carrington1996migration incorporating endogeneity of migration decision
-  - @munshi2003networks 
-
-Look at Zenteno's syllabus
-# **Effect in local economies**
