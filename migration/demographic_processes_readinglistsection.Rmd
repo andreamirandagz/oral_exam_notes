@@ -34,6 +34,8 @@ myopts <- BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE,
 bib[c("parrado2011high","choi2012international","friedlander1983demographic",
 "davis2010effects","kulu2005migration")]
 ```
+Blau 1992
+
 
 ## *Migration, health and mortality*
 ```{r, echo = FALSE, results="asis"} 

@@ -1,0 +1,11 @@
+---
+title: "Migration and demographic processes"
+author: "Andrea Miranda-Gonzalez"
+date: "22/10/2020"
+output: html_document
+---
+
+# Immigrant health advantage / Hispanic health paradox
+
+
+#

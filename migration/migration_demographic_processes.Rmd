@@ -15,10 +15,31 @@ bibliography: references_migration.bib
 biblio-style: apalike
 ---
 
-# **Migration and Fertlity**
+# **Migration, marriage and fertility**
 
-  - @parrado2011high *
-  - @choi2012international *
+  - **@parrado2011high**
+    - Title: *How high is Hispanic/Mexican Fertility in the United States? Immigration and tempo considerations*
+    - RQ: Are immigrant fertility measures in the US accurate? What are their sources of bias?
+    - Background: Hispanic fertility rates have been found to be considerably larger than those of non-hispanics. While a growing younger population can mitigate the problems associated to a high old-dependency ratio, it can also be unwelcomed by a native population who view immigrants as a threat. High immigrant fertility rates are also associated to a "failure to assimilate". 
+    - Relevance: Many projections of the hispanic population in the US use a high fertility rate, so it is important to understand if this estimate is accurate. 
+    - Main results: There is a substantial overestimation of period fertility of Hispanic/Mexican populations in the US due to bias and errors. 
+      - Difficulty estimating the number of immigrant women in each age group (TFR denominator)
+      - Migration occurs at specific ages --> age and marital composition of immigrant groups. Most of mexican immigrants are in their prime childbearing ages and are married. Women typically have come to the US for family reunification.--> compositional differences
+      - Women tend to have a child soon after they migrate --> disruptions in the timing and childbearingas a result of migration. This is the most dramatic distortion
+    - Hispanic fertility rate should be close to replacement. 
+  
+  - **@choi2012international**
+    - Title: *"International migration and educational assortative mating in Mexico and the United States"*
+    - RQ: What is the relationship between migration and marriage? Who marries whom and what are their education levels?
+      - do marriage rates among Mexicans vary by individual migration statuses and levels of migration in the community?
+      - does the educational resemblance of spouses varies by individual migration statuses and levels of migration in a community/ 
+      - how do these patterns vary across the
+education distribution? 
+    - Background: Mexican migrants are typically young men. This affects the marriage options at their origin communities and their relative attractiveness once they return. There a # and composition effect associated to the men and women available in communities that have high out-migration rates.
+    - Main results:
+      -  Migrants --> more likely to be in a union AND more likely than nonmigrants to unite with partners whose levels of educational attainment differ from their own--> "marry up" when they come back to Mexico because they have an improved economic standing relative to nonmigrants.
+      - Migrants with high education levels: unlikely that they will marry someone in the US with higher education levels.
+      - In sending communities with high out-migration rates, people are more likely to marry outside of their educational group than people living in communities with low levels of migration. -->shortage of marriageable men in sending communities.  
   - @friedlander1983demographic 
   - @davis2010effects
   - @kulu2005migration
@@ -43,18 +64,21 @@ biblio-style: apalike
       - Unlikely that data issues that can drive the HMA
       - Hispanic mortality advantage only in foreign-born Mexicans (ie. excludes Cubans and Puerto Ricans).
       - Advantages occur in the shortest and longest stays, so no strong evidence that assimilated migrants have mortality levels similar to non-hispanic whites (no strong evidence for healthy-migrant effect).
-      - Some evidence that return migration drives the HMA for foreign-bon Mexicans (no effect on foreing-born other hispanics).
+      - Some evidence that return migration drives the HMA for foreign-bon Mexicans (no effect on foreign-born other hispanics).
       - No strong evidence for cultural advantage.
   - **@riosmena2017explaining**
     - Title: *Explaining the Immigrant Health Advantage: Self-selection and Protection in Health-Related Factors Among Five Major National-Origin Immigrant Groups in the United States*
     - Research question: Can the immigrant health advantage (IHA) be explained by using variation in 5 immigrant groups? In particular, can we attribute it to a self-selection or protection process?
+      - self selection of healthier individuals into migration
+      - Protection that immigrants receive from social capital embedded in migrant networks and communities.
+      - effect of data and statistical artifacts that disproportionately overstate immigrant health.
+    - Main results:
+      - Strong evidence for self-selection in terms of health of migrants relative to 1) share of immigrants sponsored through employment (specifically, Indians and Chinese) and 2) large composition of undocumented migrants. 
+      - Immigrants less likely to smoke or start and mexican immigrants are more likely to stop smoking once they arrive to the US.
+      -"the IHA more generally—but especially that pertaining to Latin American migrants—is produced by overlapping, mutually reinforcing mechanisms, including different types of artifacts that additionally exaggerate the IHA beyond its likely"
     
       
 # **Migration and the life course, aging and health**
-
-
-    
-
   - @litwak1987migration 
   - @vega2019reasons
   - @acevedo2012integrating
